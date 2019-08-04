@@ -1,7 +1,11 @@
-This is a sample text file and the branch unicorn
+This is a sample text file and the branch unicorn and the branch ponies
 
+ponies
 Add more elements to it
 add a line to commit changes
 add another line to commit changes
+ponies
+to make it meaningful and unicorn and ponies
 add indigo
 to make it meaningful and unicorn
+resolving merge conflicts
