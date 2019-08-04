@@ -1,5 +1,5 @@
 This is a sample text file
 
 Add more elements to it
-
+add a line to commit changes
 to make it meaningful
