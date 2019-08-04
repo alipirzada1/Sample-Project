@@ -1,6 +1,6 @@
-This is a sample text file
+This is a sample text file and the branch unicorn
 
 Add more elements to it
 add a line to commit changes
 add another line to commit changes
-to make it meaningful
+to make it meaningful and unicorn
